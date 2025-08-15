@@ -1,3 +1,2 @@
-file ini merupakan modifikasi font noti s
-noto sans batak sesuai kebutuhan saya
-dalam menulis aksara batak
+file ini merupakan modifikasi font 
+noto sans batak agar sesuai dengan kebutuhan saya dalam menulis aksara batak toba
